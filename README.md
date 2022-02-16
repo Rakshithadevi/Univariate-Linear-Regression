@@ -47,7 +47,12 @@ plt.show()
 ```
 ## Sample Input and Output
 ![inp](./input.jpg)
+
+
+
 OUTPUT1:
+![image](https://user-images.githubusercontent.com/94165326/154310709-1b2c7831-3294-4d0b-8d3d-fc95189f8555.png)
+
 
 
 
